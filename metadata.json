@@ -1,0 +1,6 @@
+{
+  "name": "PropelIQ - Real Estate Lead Conversion & High-Value Customer Intelligence",
+  "description": "Enterprise analytics dashboard and predictive intelligence platform for forecasting high-value real estate customer conversion across 24 ML/DL models with real-time scoring and SHAP explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
